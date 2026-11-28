@@ -1,0 +1,40 @@
+18:53:28 budget pace: 14 calls/min, 5 min to reset, slots allowed 32
+18:53:43 budget (GITHUB_TOKEN, limit 5000): core 4357, graphql 5000, queue 0, busy 0/32
+18:53:43 budget pace: 12 calls/min, 5 min to reset, slots allowed 32
+18:53:59 budget (GITHUB_TOKEN, limit 5000): core 4356, graphql 5000, queue 0, busy 0/32
+18:53:59 budget pace: 9 calls/min, 5 min to reset, slots allowed 32
+18:54:13 budget (GITHUB_TOKEN, limit 5000): core 4355, graphql 5000, queue 0, busy 0/32
+18:54:14 budget pace: 7 calls/min, 5 min to reset, slots allowed 32
+18:54:28 budget (GITHUB_TOKEN, limit 5000): core 4354, graphql 5000, queue 0, busy 0/32
+18:54:29 budget pace: 6 calls/min, 4 min to reset, slots allowed 32
+18:54:43 budget (GITHUB_TOKEN, limit 5000): core 4353, graphql 5000, queue 0, busy 0/32
+18:54:43 budget pace: 5 calls/min, 4 min to reset, slots allowed 32
+18:54:58 budget (GITHUB_TOKEN, limit 5000): core 4352, graphql 5000, queue 0, busy 0/32
+18:54:58 budget pace: 4 calls/min, 4 min to reset, slots allowed 32
+18:55:14 budget (GITHUB_TOKEN, limit 5000): core 4350, graphql 5000, queue 0, busy 0/32
+18:55:14 budget pace: 5 calls/min, 4 min to reset, slots allowed 32
+18:55:28 budget (GITHUB_TOKEN, limit 5000): core 4349, graphql 5000, queue 0, busy 0/32
+18:55:29 budget pace: 4 calls/min, 3 min to reset, slots allowed 32
+18:55:43 budget (GITHUB_TOKEN, limit 5000): core 4348, graphql 5000, queue 0, busy 0/32
+18:55:44 budget pace: 4 calls/min, 3 min to reset, slots allowed 32
+18:55:58 budget (GITHUB_TOKEN, limit 5000): core 4347, graphql 5000, queue 0, busy 0/32
+18:55:58 budget pace: 4 calls/min, 3 min to reset, slots allowed 32
+18:56:13 budget (GITHUB_TOKEN, limit 5000): core 4346, graphql 5000, queue 0, busy 0/32
+18:56:13 budget pace: 4 calls/min, 3 min to reset, slots allowed 32
+18:56:29 budget (GITHUB_TOKEN, limit 5000): core 4338, graphql 5000, queue 0, busy 0/32
+18:56:29 budget pace: 12 calls/min, 2 min to reset, slots allowed 32
+18:56:43 budget (GITHUB_TOKEN, limit 5000): core 4337, graphql 5000, queue 0, busy 0/32
+18:56:44 budget pace: 9 calls/min, 2 min to reset, slots allowed 32
+18:56:58 budget (GITHUB_TOKEN, limit 5000): core 4335, graphql 5000, queue 0, busy 0/32
+18:56:58 budget pace: 8 calls/min, 2 min to reset, slots allowed 32
+18:57:13 budget (GITHUB_TOKEN, limit 5000): core 4334, graphql 5000, queue 0, busy 0/32
+18:57:13 budget pace: 6 calls/min, 2 min to reset, slots allowed 32
+18:57:29 budget (GITHUB_TOKEN, limit 5000): core 4333, graphql 5000, queue 0, busy 0/32
+18:57:29 budget pace: 5 calls/min, 1 min to reset, slots allowed 32
+18:57:45 budget (GITHUB_TOKEN, limit 5000): core 4332, graphql 5000, queue 0, busy 0/32
+18:57:45 budget pace: 4 calls/min, 1 min to reset, slots allowed 32
+18:57:59 budget (GITHUB_TOKEN, limit 5000): core 4331, graphql 5000, queue 0, busy 0/32
+18:58:00 budget pace: 4 calls/min, 1 min to reset, slots allowed 32
+18:58:14 budget (GITHUB_TOKEN, limit 5000): core 4330, graphql 5000, queue 0, busy 0/32
+18:58:14 budget pace: 4 calls/min, 1 min to reset, slots allowed 32
+18:58:29 budget (GITHUB_TOKEN, limit 5000): core 5000, graphql 5000, queue 0, busy 0/32
